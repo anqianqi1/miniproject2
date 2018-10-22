@@ -10,3 +10,7 @@
 
 5. This is the step of testing the retrained images. I test a hunburger image and the result is 0.999hamburger. So the result is accurate.
 
+
+
+Neurala:
+The exprot folder is the trained result from newrala.

@@ -9,7 +9,7 @@
 4. After the retrain process. You can open tensorboard and see the train graph.
 
 5. This is the step of testing the retrained images. I test a hunburger image and the result is 0.999hamburger. So the result is accurate.
-
+the result of images are in the base folder
 
 
 Neurala:
